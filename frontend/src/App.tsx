@@ -45,8 +45,7 @@ type ConnectionState = 'CONNECTING' | 'LIVE' | 'DISCONNECTED';
 type ThemeMode = 'black' | 'light';
 
 function readInitialTheme(): ThemeMode {
-  if (typeof window === 'undefined') return 'black';
-  return window.localStorage.getItem('corematch-theme') === 'light' ? 'light' : 'black';
+  return 'black';
 }
 
 export default function App() {
