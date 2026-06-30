@@ -1,0 +1,4 @@
+*.log
+corematch-server-*
+frontend/dist/
+frontend/node_modules/
