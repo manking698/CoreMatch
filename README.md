@@ -11,7 +11,7 @@ Go | React | WebSocket | Price-Time Priority | In-Memory Matching
 <img
 src="docs/screenshots/corematch-dashboard-dark-mode.png"
 alt="CoreMatch Dashboard"
-width="80%" />
+width="100%" />
 
 ---
 
